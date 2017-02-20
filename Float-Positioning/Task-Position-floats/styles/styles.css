@@ -4,7 +4,6 @@ body{
 	font-size: 16px;
 	line-height: 1.2;
 	word-spacing: -0.1px;
-	//word-spacing: -0.3px;
 	letter-spacing: -0.65px;
 	font-weight: normal;
 
@@ -85,13 +84,13 @@ div.bookmark3{
 
 h2{
 	margin: 0 0 10px 0;
-	font-size: 1.5em//24px;
+	font-size: 1.5em; //24px;
 	color: #333333;
 }
 
 h3{
 	margin: 0 0 20px 0;
-	font-size: 1.125em//18px;
+	font-size: 1.125em; //18px;
 	color: #333333;
 	clear: both;
 }
@@ -133,18 +132,18 @@ img.img6{
 
 p.p1{
 	margin: 0 5px 0 0;
-	font-size: 0.75em;//12px;
+	font-size: 0.75em; //12px;
 }
 
 p.p2{
 	margin: 15px 0 0 0;
-	font-size: 0.75em;//12px;
+	font-size: 0.75em; //12px;
 }
 
 footer{
 	clear: both;
 	margin: 0 5px 0 5px;
-	font-size: 0.56em;//9px;
+	font-size: 0.56em; //9px;
 	word-spacing: 1px;
 	text-align: center;
 	color: black;
@@ -163,7 +162,7 @@ div.fixed{
 }
 
 p.fixed-text{
-	//font-size: 1em//16px;
+	//font-size: 1em; //16px;
 	text-align: center;
 	margin: 5px;
 }
